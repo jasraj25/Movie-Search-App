@@ -28,21 +28,6 @@ Stylish design using CSS, including a dark theme background and modern typograph
 *  Font Integration:
 
 Utilizes the Lato font from Google Fonts for a clean and modern look.
-*  Error Handling:
-
-Basic error handling is implemented in JavaScript to handle issues such as failed API requests.
-*  Image Handling:
-
-Default images are displayed for movies without available posters.
-*  User-Friendly UI:
-
-The user interface is straightforward, with a centered search bar and a visually appealing presentation of movie information.
-*  Feedback:
-
-User feedback is provided through hover effects and visual transitions.
-*  Event Handling:
-
-Listens for user input events (keyup) to trigger the movie search functionality.
 *  Modularity:
 
 The code is modular, with separate HTML, CSS, and JavaScript files for better organization and maintainability.
@@ -55,7 +40,7 @@ Provides basic accessibility features, such as autofocus on the search bar and c
 * HTML5, CSS3, and JavaScript for the frontend development.
 
 # API'S used
-* Popular movies : "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=04c35731a5ee918f014970082a0088b1&page=1"
-* Movie posters : "https://image.tmdb.org/t/p/w1280"
-* Movie SEARCH API = "https://api.themoviedb.org/3/search/movie?&api_key=04c35731a5ee918f014970082a0088b1&query="
+* Popular movies : https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=04c35731a5ee918f014970082a0088b1&page=1
+* Movie posters : https://image.tmdb.org/t/p/w1280
+* Movie SEARCH API = https://api.themoviedb.org/3/search/movie?&api_key=04c35731a5ee918f014970082a0088b1&query=
 
